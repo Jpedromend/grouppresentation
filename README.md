@@ -5,6 +5,7 @@ Welcome to the webpage files of my group presentation (10/05/2022)!
 This github webpage was created to share the presentation with colleagues.
 
 Links to used images:
+
 https://www.ethlife.ethz.ch/archive_articles/130524_quantenmagnetismus_at/index_EN.html
 https://arxiv.org/abs/2204.13644
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.123601
