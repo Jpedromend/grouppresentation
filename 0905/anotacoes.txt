@@ -1,0 +1,37 @@
+====================== Title =====================
+Quantum simulation of extended electron-phonon coupling effects in a hybrid Rydberg atom system
+
+============ Motivation and Introduction =========
+quantum simulation
+sucess of rydberg atoms
+recent developments enabling trapped long-lived systems:
+Trapping Alkaline Earth Rydberg Atoms Optical Tweezer Arrays
+Trapped Alkali-Metal Rydberg Qubit
+
+extension to a hybrid system: mixed species increase complexity, 
+mixtures, ion-atom and other ideas. 
+***Natural realization of a solid analogue.
+
+Many-body physics, superconductivity etc., prominent role of coupling to phonons. 
+Going beyond effective Hubbard models. Inherent difficulties of numerical e-ph coupling 
+studies (QMC, DMRG, nongaussian)
+
+Previous proposals: 
+Quantum simulations of extended Hubbard models with dipolar crystals
+Spin-Holstein Models in Trapped-Ion Systems
+Topological phenomena in trapped-ion systems
+Quantum simulation of extended polaron models using compound atom-ion systems
+
+=========== Topological Rydberg lattice =================
+Model:
+Figure: Fancy plot showing the Rydberg chain (length scales, coordinates, traps, phonons, atoms)
+Concise derivation with details
+Crucial properties: one length scale, controlled geometry (dipole orientation)
+
+Results:
+Figure: few panels showing the control over the band structure. flat band, some band touching/crossing, Dirac points etc.
+
+========== Ground state atoms and coupling to phonons =========
+say something about possible hamiltonians, recall KJ paper
+Concise derivation with details
+Figure: two panels showing interaction strenght in 1D.
